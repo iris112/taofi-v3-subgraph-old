@@ -1,0 +1,10 @@
+{
+  "subtensor": {
+    "Factory": {
+      "address": "0x20D0Cdf9004bf56BCa52A25C9288AAd0EbB97D59"
+    },
+    "NonfungiblePositionManager": {
+      "address": "0x61EeA4770d7E15e7036f8632f4bcB33AF1Af1e25"
+    }
+  }
+}
